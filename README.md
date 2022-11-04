@@ -2,7 +2,7 @@
 
 ## Full Stack Nano - IAM Final Project
 
-This is a digitally enabled cafe that for students to order drinks, socialize and study hard. It was built has part of the projects for Udacity's full stack Nanodegree program.
+This is a digitally enabled cafe for students to order drinks, socialize and study hard. It was built as part of the projects for Udacity's full stack Nanodegree program.
 
 Some of the features of the application includes:
 
