@@ -2,25 +2,18 @@
 
 ## Full Stack Nano - IAM Final Project
 
-Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience.
+This is a digitally enabled cafe that for students to order drinks, socialize and study hard. It was built has part of the projects for Udacity's full stack Nanodegree program.
 
-You have been called on to demonstrate your newly learned skills to create a full stack drink menu application. The application must:
+Some of the features of the application includes:
 
 1. Display graphics representing the ratios of ingredients in each drink.
 2. Allow public users to view drink names and graphics.
 3. Allow the shop baristas to see the recipe information.
 4. Allow the shop managers to create new drinks and edit existing drinks.
 
-## Tasks
+## About the Stackk
 
-There are `@TODO` comments throughout the project. We recommend tackling the sections in order. Start by reading the READMEs in:
-
-1. [`./backend/`](./backend/README.md)
-2. [`./frontend/`](./frontend/README.md)
-
-## About the Stack
-
-We started the full stack application for you. It is designed with some key functional areas:
+The full stack application is designed with some key functional areas:
 
 ### Backend
 
