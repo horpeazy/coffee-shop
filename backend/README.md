@@ -12,6 +12,10 @@ Follow instructions to install the latest version of python for your platform in
 
 I recommend working within a virtual environment whenever using Python for projects. This keeps your dependencies for each project separate and organized. Instructions for setting up a virtual environment for your platform can be found in the [python docs](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 
+./configure --enable-optimizations
+make -j 4
+sudo make altinstall
+
 #### PIP Dependencies
 
 Once you have your virtual environment setup and running, install dependencies by naviging to the `/backend` directory and running:
